@@ -1,0 +1,3 @@
+rootProject.name = 'JD 3.2'
+include 'Client'
+
